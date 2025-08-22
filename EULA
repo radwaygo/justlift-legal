@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>JustLift End User License Agreement (EULA)</title>
+</head>
+<body style="max-width: 700px; margin: auto; font-family: sans-serif; line-height: 1.6; padding: 20px;">
+  <h1>End User License Agreement (EULA)</h1>
+  <p><strong>Last updated:</strong> August 22, 2025</p>
+
+  <h2>1. Agreement</h2>
+  <p>This End User License Agreement (“Agreement”) is a legal contract between you and the developer of <strong>JustLift</strong> (“we,” “our,” or “us”). By downloading or using JustLift, you agree to be bound by this Agreement.</p>
+
+  <h2>2. License Grant</h2>
+  <p>We grant you a personal, non-exclusive, non-transferable license to install and use JustLift on Apple-branded devices that you own or control, as permitted by the Apple App Store Terms of Service.</p>
+
+  <h2>3. Restrictions</h2>
+  <ul>
+    <li>You may not copy, modify, reverse engineer, decompile, or attempt to extract the source code of JustLift.</li>
+    <li>You may not rent, lease, lend, sell, redistribute, or sublicense the app.</li>
+    <li>You may not use the app for unlawful purposes.</li>
+  </ul>
+
+  <h2>4. Ownership</h2>
+  <p>All rights, title, and interest in JustLift remain the property of the developer. This Agreement does not transfer any intellectual property rights to you.</p>
+
+  <h2>5. Termination</h2>
+  <p>This Agreement is effective until terminated. Your rights will automatically terminate without notice if you fail to comply with any terms. Upon termination, you must stop using the app and delete all copies from your devices.</p>
+
+  <h2>6. Disclaimer of Warranties</h2>
+  <p>JustLift is provided “as is,” without warranties of any kind, either express or implied. Your use of the app is at your sole risk.</p>
+
+  <h2>7. Limitation of Liability</h2>
+  <p>To the maximum extent permitted by law, we are not liable for any damages or losses arising from your use of JustLift.</p>
+
+  <h2>8. Governing Law</h2>
+  <p>This Agreement shall be governed by and construed in accordance with the laws of your country of residence, unless otherwise required by local law.</p>
+
+  <h2>9. Third-Party Terms</h2>
+  <p>Your use of JustLift must also comply with Apple’s App Store Terms of Service and Apple’s End User License Agreement.</p>
+
+  <h2>10. Contact Us</h2>
+  <p>If you have any questions about this Agreement, please contact us at:</p>
+  <p><a href="mailto:your@email.com">your@email.com</a></p>
+
+</body>
+</html>
